@@ -10,7 +10,7 @@
 
 #### 1. [Universitas Muhammadiyah Prof.Dr.HAMKA](https://uhamka.ac.id/) | Bachelor of Technical Information
 
- #### 2. [SMA SULUH JAKARTA] (https://smasuluh.sch.id/) | 2016-2019
+#### 2. [SMA SULUH JAKARTA] (https://smasuluh.sch.id/) | 2016-2019
 
 ## Work Experience:
 
