@@ -1,17 +1,16 @@
 # Hi there, I'm mfaturoman - aka [Fathur Rochman] 👋
 ## About me:
-- 🔭 I’m currently working at 
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Analyst
+- 🌱 I’m currently learning Python, Javascript and Laravel
+- 👯 I’m looking to Web development
 - 🤔 I’m looking for suggest for Automation and Data Analyst
 - 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+- 📫 How to reach me: faturomann@gmail.com
 
 ## Education:
 
-#### 1. [Universitas Muhammadiyah Prof.Dr.HAMKA](https://www.ugm.ac.id) | Bachelor of Engineering
+#### 1. [Universitas Muhammadiyah Prof.Dr.HAMKA](https://uhamka.ac.id/) | Bachelor of Technical Information
 
- #### 2. [SMA SULUH JAKARTA]
+ #### 2. [SMA SULUH JAKARTA] (https://smasuluh.sch.id/) | 2016-2019
 
 ## Work Experience:
 
@@ -33,11 +32,11 @@
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCTKwXZoOfIcLUu-nB0etQ4Q-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCTKwXZoOfIcLUu-nB0etQ4Q-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/mfaturoman25-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/mfaturoman25-dark-mode-only)
+[![website](./img/twitter-light.svg)]()
+[![website](./img/twitter-dark.svg)]()
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/Muhammad Fathur Rochman-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/Muhammad Fathur Rochman-dark-mode-only)
+[![website](./img/linkedin-light.svg)]()
+[![website](./img/linkedin-dark.svg)]()
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/mfaturoman-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/mfaturoman-dark-mode-only)
