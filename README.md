@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 ## About me:
-- 🌱 I’m currently learning Python, Javascript and Laravel
+- 🌱 I’m currently learning Javascript, PHP, C++, HTML 
 - 👯 I’m looking to Web development
 - 🤔 I’m looking for suggest for Automation and Data Analyst
 - 💬 Ask me about anything
