@@ -1,6 +1,6 @@
 <h1 align-"center">Hi  👋, I'm Fathur Rochman</h1>
 <h3 align="center"> A Passionate Backend + Frontend + Rest API from indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprogrammer-gif-19019116&psig=AOvVaw1S0vqby6qAyPFwGVrtFFLf&ust=1669469926379000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKiAkqO6yfsCFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprogrammer-gif">
 
 ## About me:
 - 🌱 I’m currently learning Python, Javascript and Laravel
