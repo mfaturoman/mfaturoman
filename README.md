@@ -15,6 +15,7 @@
 ## Work Experience:
 
 ### PT.Menara Indonesia - KG (Kampus gratis) division WEB DEVELOPMENT + REST API
+    1 SEPTEMBER - 1 DESEMBER 2022
 
 ### Languages and Tools:
 
