@@ -2,7 +2,7 @@
 
 <h1>Hi  👋, I'm Fathur Rochman</h1>
 <h3> A Passionate Backend + Frontend + Rest API from indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/56/5699a7b6dc56396c205ac534d9226061.gif">
 
 ## About me:
 - 🌱 I’m currently learning Javascript, PHP, C++, HTML 
