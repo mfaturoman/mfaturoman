@@ -20,20 +20,19 @@
 ### PT.Menara Indonesia - KG (Kampus gratis) division WEB DEVELOPMENT + REST API
 
 ### Languages and Tools:
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+- 🔭 back-end： ![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java)
 
----
+- 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5)
+
+- :hammer_and_wrench: use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)
+
+- ⚙️ om：![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)
+
+- 💻 db：![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)
+
+- 🌱 learning：![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php)![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs)
+
+
 ### Connect with me:
 
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCTKwXZoOfIcLUu-nB0etQ4Q-light-mode-only)
