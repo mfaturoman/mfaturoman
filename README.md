@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif)]()
+[![MasterHead](https://i.pinimg.com/originals/16/d5/6f/16d56f9d8589264826449e4bdbac89c8.jpg)]()
 
 <h1>Hi  👋, I'm Fathur Rochman</h1>
 <h3> A Passionate Backend + Frontend + Rest API from indonesia</h3>
@@ -7,8 +7,7 @@
 ## About me:
 - 🌱 I’m currently learning Javascript, PHP, C++, HTML 
 - 👯 I’m looking to Web development
-- 🤔 I’m looking for suggest for Automation and Data Analyst
-- 💬 Ask me about anything
+- 💬 Ask me about Web development
 - 📫 How to reach me: faturomann@gmail.com
 
 ## Education:
